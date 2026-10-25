@@ -1,3 +1,8 @@
+HW3.pdf
+lorenz.pdf
+part1/results/
+part1/src/results/
+part1/src/logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
